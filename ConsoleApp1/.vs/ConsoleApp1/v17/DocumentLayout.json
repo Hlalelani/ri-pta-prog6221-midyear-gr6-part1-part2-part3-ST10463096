@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-ST10463096\\ConsoleApp1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0701C4DA-212F-47FE-AF8D-04531C65E313}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\visual studio 2022\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-st10463096\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0701C4DA-212F-47FE-AF8D-04531C65E313}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-ST10463096\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-ST10463096\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-26T12:34:16.759Z",
+              "EditorCaption": ""
             }
           ]
         }
